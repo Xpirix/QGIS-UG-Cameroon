@@ -1,5 +1,5 @@
 {{ $isLocal := (or (eq .Site.BaseURL "/") (strings.Contains .Site.BaseURL "localhost")) }}
-{{ $locationPrefix := .Site.Params.uniNavHeaderLocationPrefix | default "https://qgis.org" }}
+{{ $locationPrefix := .Site.Params.uniNavHeaderLocationPrefix }}
 {{ $logoIcon := .Site.Params.uniNavHeaderLogoIcon | default "img/qgis-cameroun-icone-512.png" }}
 
 
@@ -9,6 +9,6 @@
     location-prefix="{{ $locationPrefix }}"
     logo-icon="{{ $logoIcon | absURL }}"
     logo-link="{{ .Site.BaseURL }}"
-    second-menu-prefix="{{ .Site.BaseURL }}"
-    secondary-menu-config="{{ "config/navigation.json" | absURL }}"
+    second-menu-prefix="https://cm.qgis.org/"
+    secondary-menu-config="https://raw.githubusercontent.com/qgis/QGIS-UG-Cameroon/main/static/config/navigation.json"
 ></qg-top-nav>
