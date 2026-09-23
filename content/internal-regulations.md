@@ -3,7 +3,7 @@ title: "Internal Regulations"
 subtitle: "Supplementary Document to the Statutes of the QGIS Cameroon Association"
 draft: false
 type: "page"
-url: "/internal-regulations/"
+url: "/rules/"
 ---
 
 {{< content-start >}}
