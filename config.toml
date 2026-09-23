@@ -2,7 +2,7 @@
 # Update baseURL for your specific User Group deployment
 baseURL = 'https://usergroup.qgis.org/'
 languageCode = 'en-us'
-title = 'QGIS User Group Template'
+title = 'QGIS Cameroon'
 theme = 'qgis-website-theme'
 # Default pagination.
 # Can override this when needed e.g. {{ range (.Paginator 5).Pages }}
@@ -33,27 +33,28 @@ enableRobotsTXT = false
 [params]
 # Min hugo version
 minHugoVersion = "0.139.0"
-# Brand colours:
-primary1 = "#589632"
-primary2 = "#55828b"
-primary3 = "#395c6b"
-primary4 = "#EEE766"
-primary5 = "#93B023"
-primary6 = "#ee7913"
-primary1-invert = "#fff"
-primary2-invert = "#eeeeee"
-primary3-invert = "#eeeeee"
-primary4-invert = "#363636"
-primary5-invert = "#eeeeee"
-primary6-invert = "#fff"
-links = "#3A9800"
+# Brand colours: QGIS Cameroon takes its red, green and yellow from the
+# Cameroon flag, keeping the official QGIS green as the secondary colour.
+primary1 = "#C62828"
+primary2 = "#589632"
+primary3 = "#2c3e50"
+primary4 = "#FDD835"
+primary5 = "#E53935"
+primary6 = "#8E0000"
+primary1-invert = "#ffffff"
+primary2-invert = "#ffffff"
+primary3-invert = "#ffffff"
+primary4-invert = "#000000"
+primary5-invert = "#ffffff"
+primary6-invert = "#ffffff"
+links = "#C62828"
 # TODO update these to gradient colours like above
-complementary1 = "#93B023"
-complementary2 = "#ee7913"
-complementary3 = "#EEE766"
-complementary4 = "#93b023"
+complementary1 = "#589632"
+complementary2 = "#C62828"
+complementary3 = "#FDD835"
+complementary4 = "#589632"
 complementary5 = "#a7cecb"
-complementary6 = "#589732"
+complementary6 = "#589632"
 complementary7 = "#93B022"
 complementary8 = "#385C6B"
 light1 = "#fbfbfb"
@@ -69,12 +70,12 @@ white = "#ffffff"
 grey-dark = "#444444"
 grey-darker = "#363636"
 grey-light = "#d4d4d4"
-primary = "#a7cecb"
-danger = "#ee7913"
-info = "#93b023"
+primary = "#C62828"
+danger = "#8E0000"
+info = "#589632"
 success = "#589632"
-warning = "#EEE766"
-link = "#ee7913"
+warning = "#FDD835"
+link = "#C62828"
 # Brand fonts to override bulma font families
 heading-font = "'Twemoji Country Flags', 'Trueno', sans-serif"
 text-font = "'Twemoji Country Flags', 'Trueno', sans-serif"
@@ -82,16 +83,16 @@ fancy-font = "'Sevillana', cursive"
 
 ## Gh repo edit link
 ## This repo is used for the "Edit this page" link
-githubRepo = "https://github.com/qgis/QGIS-User-Group-Website/"
+githubRepo = "https://github.com/Xpirix/QGIS-UG-Cameroon/"
 githubSubdir = "content"
 githubBranch = "main"
 
 ## Gh repo for site footer (include trailing slash)
-githubUrl = "https://github.com/qgis/QGIS-User-Group-Website/"
+githubUrl = "https://github.com/Xpirix/QGIS-UG-Cameroon/"
 ## GH Repo for filing a new issue
-githubIssueUrl = "https://github.com/qgis/QGIS-User-Group-Website/issues/new/choose"
+githubIssueUrl = "https://github.com/Xpirix/QGIS-UG-Cameroon/issues/new/choose"
 ### Edit content repo (set to automatically enter "edit" mode; this is good for "improve this page" links)
-githubEditUrl = "https://github.com/qgis/QGIS-User-Group-Website/edit/main"
+githubEditUrl = "https://github.com/Xpirix/QGIS-UG-Cameroon/edit/main"
 ### Radius for boxes
 corner-radius = "0px"
 
