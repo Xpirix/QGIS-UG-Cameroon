@@ -1,27 +1,40 @@
 ---
 type: "page"
 title: "Events"
-subtitle: "Upcoming and past events"
+subtitle: "Upcoming and past community activities"
 draft: false
 sidebar: true
+url: "/events/"
 ---
 
 {{< content-start >}}
 
 # Events
 
-Stay updated with our upcoming meetups, workshops, and conferences. Join us to learn, share, and network with fellow QGIS enthusiasts.
+Stay informed about our upcoming meetups, workshops, and conferences. Join us to advance your geospatial skills, share knowledge, and network with fellow QGIS professionals and enthusiasts across Cameroon and beyond.
 
 ## Upcoming Events
 
 {{< rich-box-start layoutClass="has-right rounded" >}}
 {{< rich-content-start themeClass="coloring-2" >}}
-### QGIS User Group Meetup (Placeholder)
+### QGIS Open Day (QOD)
 
-When: [Date]  
-Where: [City / Online]
+**Date:** September 25, 2026  
+**Time:** To be scheduled  
+**Location:** Live on QGIS YouTube channel  
 
-{{< button class = "is-primary1" link = "https://usergroup.qgis.org/" text = "Learn more" >}} 
+**Description:**  
+Join us for the QGIS Open Day (QOD), where we will officially introduce the QGIS Cameroon User Group and share more about our community.
+
+During this session, we will present:
+- Our mission
+- Our goals
+- Our vision
+- Our activities and future plans for the QGIS community in Cameroon
+
+We are excited to share our journey with you and connect with the wider QGIS community. Stay tuned for the confirmed time and livestream link.
+
+{{< button class="is-primary" link="https://youtube.com/@qgis" text="Subscribe to QGIS YouTube" >}} 
 
 {{< rich-content-end >}}
 {{< rich-right-start >}}
@@ -31,43 +44,42 @@ Where: [City / Online]
 
 
 {{< columns-start >}}
-{{< column-start>}}
-
-{{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1">}}
-
-### Regular Meetups
-
-We organize regular meetups where members can:
-- Share their latest QGIS projects
-- Learn new techniques and workflows
-- Get help with QGIS challenges
-- Network with other users
-
-**When:** [Add your meeting schedule]  
-**Where:** [Add your meeting location/online platform]  
-**Registration:** [Add registration information]
-
-
-{{< rich-content-end >}}
-{{< rich-box-end >}}
-{{< column-end >}}
-{{< column-start>}}
+{{< column-start >}}
 
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
-### Workshops & Training
+### Regular Meetups
 
-We regularly host hands-on workshops covering:
-- QGIS basics for beginners
-- Advanced analysis techniques
-- Plugin development
-- Cartography and visualization
-- Data processing workflows
+We organize structured, regular meetups where members can:
+- Present and discuss their latest QGIS projects and use cases.
+- Learn new techniques, workflows, and industry standards.
+- Receive technical support and peer review for complex GIS challenges.
+- Network with professionals, academics, and students in the geospatial sector.
 
-Check back regularly for upcoming workshop announcements.
+**Schedule:** Last Thursday of every month  
+**Location:** Rotating between Yaoundé, Douala, and Online (Hybrid)  
+**Registration:** Details are announced via our official mailing list and LinkedIn page.
 
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+{{< column-end >}}
+
+{{< column-start >}}
+
+{{< rich-box-start >}}
+{{< rich-content-start themeClass="coloring-1" >}}
+
+### Workshops & Capacity Building
+
+We regularly host hands-on, professional training sessions covering:
+- QGIS fundamentals and interface navigation for beginners.
+- Advanced spatial analysis and geoprocessing techniques.
+- Python scripting and custom plugin development for QGIS.
+- Professional cartography, map design, and data visualization.
+- Integration of QGIS with web mapping frameworks and open data portals.
+
+Please check this page regularly for upcoming workshop schedules and registration links.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -76,15 +88,15 @@ Check back regularly for upcoming workshop announcements.
 
 ## Past Events
 
-[Add information about past events, presentations, or links to recordings]
+We are currently building our event history. Check back soon for recordings, presentations, and workshop materials from our upcoming sessions.
 
-
-{{< rich-box-start icon="💁" layoutClass="tips">}}
+{{< rich-box-start layoutClass="tips" >}}
 {{< rich-content-start themeClass="coloring-1" >}}
-##### Get Involved
+### Propose an Event or Presentation
 
-Want to present at our next meetup or organize an event? Contact us at [your-contact-email]
+We actively encourage community participation. If you wish to present a project, lead a workshop, or propose a new event format, please submit your proposal to our Events Coordinator. 
 
+**Contact:** qgiscameroun@gmail.com
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
