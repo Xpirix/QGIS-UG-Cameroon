@@ -1,6 +1,6 @@
 # May be overwritten in .github/workflows/github-pages.yml or other config files
 # Update baseURL for your specific User Group deployment
-baseURL = 'https://usergroup.qgis.org/'
+baseURL = 'https://cm.qgis.org/'
 languageCode = 'en-us'
 title = 'QGIS Cameroon'
 theme = 'qgis-website-theme'
@@ -83,16 +83,16 @@ fancy-font = "'Sevillana', cursive"
 
 ## Gh repo edit link
 ## This repo is used for the "Edit this page" link
-githubRepo = "https://github.com/Xpirix/QGIS-UG-Cameroon/"
+githubRepo = "https://github.com/qgis/QGIS-UG-Cameroon/"
 githubSubdir = "content"
 githubBranch = "main"
 
 ## Gh repo for site footer (include trailing slash)
-githubUrl = "https://github.com/Xpirix/QGIS-UG-Cameroon/"
+githubUrl = "https://github.com/qgis/QGIS-UG-Cameroon/"
 ## GH Repo for filing a new issue
-githubIssueUrl = "https://github.com/Xpirix/QGIS-UG-Cameroon/issues/new/choose"
+githubIssueUrl = "https://github.com/qgis/QGIS-UG-Cameroon/issues/new/choose"
 ### Edit content repo (set to automatically enter "edit" mode; this is good for "improve this page" links)
-githubEditUrl = "https://github.com/Xpirix/QGIS-UG-Cameroon/edit/main"
+githubEditUrl = "https://github.com/qgis/QGIS-UG-Cameroon/edit/main"
 ### Radius for boxes
 corner-radius = "0px"
 

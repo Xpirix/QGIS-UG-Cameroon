@@ -30,7 +30,17 @@ this repository, keeping the original commit history and authorship.
 - The navigation bar uses the Cameroon location prefix and logo, and reads the
   local `static/config/navigation.json`.
 - The footer logo is the Cameroon ecusson.
-- The "edit this page" and issue links point at this repository on `main`.
+- The site is published at `https://cm.qgis.org/`, following the country code
+  pattern the other user group sites use.
+- The "edit this page", issue and commit links point at
+  `github.com/qgis/QGIS-UG-Cameroon` on `main`.
+
+### Fixed
+
+- Both navigation bars. The global QGIS bar had a location prefix of
+  `cameroon`, and the Cameroon bar pointed at `qgis.org`, so each menu
+  resolved against the wrong site. They now follow the same pattern as
+  QGIS-UG-Algeria and QGIS-UG-India.
 
 ### Removed
 
