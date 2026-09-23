@@ -98,7 +98,7 @@ corner-radius = "0px"
 
 ## Url to navigation web component
 uniNavHeaderUrl = 'https://qgis.github.io/qgis-uni-navigation/index.js'
-uniNavHeaderLocationPrefix = "cameroon"
+uniNavHeaderLocationPrefix = "https://qgis.org"
 uniNavHeaderLogoIcon = "img/qgis-cameroun-icone-512.png"
 
 ## Url to news feed. After URL change you have to check 
