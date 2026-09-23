@@ -1,10 +1,10 @@
 ---
 type: "page"
-title: "QGIS [Country]"
-subtitle: "Connecting QGIS users in our community"
+title: "QGIS Cameroon"
+subtitle: "Connecting and empowering the QGIS community in Cameroon"
 draft: false
 heroSize: "is-medium"
-heroLogo: "img/qgis_ch.png"
+heroLogo: "img/qgis-cameroun-icone-512.png"
 HeroImage: "img/hegobg1.webp"
 HasBanner: true
 sidebar: true
@@ -14,9 +14,9 @@ ButtonLink: "/events/"
 
 {{< content-start >}}
 
-## Welcome to the QGIS User Group
+## Welcome to the QGIS User Group Cameroon
 
-We are a community of QGIS users passionate about open-source geospatial technology. Our mission is to promote the use of QGIS, share knowledge, and support each other in our geospatial projects.
+We are a dynamic community of geospatial professionals, students, researchers, and enthusiasts passionate about open-source GIS. Our mission is to promote the use of QGIS, share local knowledge, and support each other in our geospatial projects across Yaoundé, Douala, Buea, and beyond.
 
 {{< columns-start >}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
@@ -29,11 +29,11 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-- Organize regular meetups and events
-- Share best practices and use cases
-- Provide support for QGIS users at all levels
-- Contribute to the QGIS project
-- Network with geospatial professionals
+- Organize regular meetups, hands-on workshops, and webinars across Cameroon.
+- Share best practices, local use cases, and open data initiatives.
+- Provide technical support and mentorship for QGIS users at all skill levels.
+- Contribute to the global QGIS project and advocate for open-source GIS in Central Africa.
+- Network with geospatial professionals, urban planners, and environmental scientists.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}
@@ -52,7 +52,7 @@ We are a community of QGIS users passionate about open-source geospatial technol
 {{< rich-box-start >}}
 {{< rich-content-start themeClass="coloring-1" >}} 
 
-Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join our events, participate in discussions, and help grow the community.
+Whether you are a student, a seasoned cartographer, or a hobbyist mapper, everyone is welcome. Join our events, participate in our community discussions, and help grow the open-source geospatial ecosystem in Cameroon.
 
 [See our upcoming events](/events/)
 
@@ -64,6 +64,6 @@ Whether you're a beginner or an experienced QGIS user, everyone is welcome. Join
 
 ## Get Involved
 
-We welcome new members and contributors. Check out our [Rules](/rules/) page to learn about our community guidelines, and visit [About Us](/about-us/) to meet our team and volunteers.
+We warmly welcome new members and contributors. Check out our [Rules](/rules/) page to learn about our community guidelines, and visit [About Us](/about-us/) to meet our team and volunteers.
 
 {{< content-end >}}
